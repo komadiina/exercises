@@ -1,0 +1,32 @@
+Naziv: monitor
+Cijena: 400.0
+Sifra: 20
+Proizvodjac: Proizvodjac: lg
+Drzava: 
+E-mail: 
+
+
+Naziv: telefon
+Cijena: 899.0
+Sifra: 1163
+Proizvodjac: Proizvodjac: samsung
+Drzava: 
+E-mail: 
+
+
+Naziv: racunar
+Cijena: 900.0
+Sifra: 2115
+Proizvodjac: Proizvodjac: alienware
+Drzava: 
+E-mail: 
+
+
+Naziv: softver
+Cijena: 5999.0
+Sifra: 4912
+Proizvodjac: Proizvodjac: meta
+Drzava: 
+E-mail: 
+
+

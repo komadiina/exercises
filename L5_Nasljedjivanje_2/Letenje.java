@@ -1,0 +1,1 @@
+public interface Letenje implements Supermoc {}

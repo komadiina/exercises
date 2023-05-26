@@ -1,0 +1,4 @@
+monitor#lg#3#20#400
+telefon#samsung#1#1163#899
+racunar#alienware#2#2115#900
+softver#meta#4#4912#5999

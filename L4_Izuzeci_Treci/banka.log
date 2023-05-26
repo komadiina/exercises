@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-05-24T17:10:08.386982600Z</date>
+  <millis>1684948208386</millis>
+  <nanos>982600</nanos>
+  <sequence>0</sequence>
+  <logger>Banka</logger>
+  <level>WARNING</level>
+  <class>Banka</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>NedovoljnoNovcaException: Nije moguce umanjiti stanje na racunu za dati iznos!</message>
+</record>
+<record>
+  <date>2023-05-24T17:10:08.573705600Z</date>
+  <millis>1684948208573</millis>
+  <nanos>705600</nanos>
+  <sequence>1</sequence>
+  <logger>Banka</logger>
+  <level>WARNING</level>
+  <class>Banka</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>NedovoljnoNovcaException: Nije moguce umanjiti stanje na racunu za dati iznos!</message>
+</record>
+</log>
